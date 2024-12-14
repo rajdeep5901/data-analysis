@@ -1,4 +1,4 @@
-# data-analysis
+# Basic-Data-Analysis
 **Overview**
 This repository contains a collection of data analytics tools and projects designed to extract insights from large datasets. Our goal is to provide a comprehensive suite of analytics capabilities, from data cleaning and preprocessing to advanced statistical analysis and machine learning models.
 
